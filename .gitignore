@@ -192,3 +192,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Playground files
+playground_scratches/
+
+# Logs directory
+logs/
+
+# Pytest logs
+tests/pytest.log
+tests/pytest_session.log
